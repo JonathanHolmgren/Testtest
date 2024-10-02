@@ -24,5 +24,5 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jonathanholmgren/Testtest.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/JonathanHolmgren/Testtest.svg?style=for-the-badge
 [contributors-url]: https://github.com/jonathanholmgren/Testtest/graphs/contributors
